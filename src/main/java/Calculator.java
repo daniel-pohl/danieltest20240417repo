@@ -6,6 +6,7 @@ public class Calculator {
         System.out.println(stringToUppercase("test"));
         System.out.println(isPositive(10000));
     }
+    //test2commit
     public static int add(int a, int b) {
         return a + b;
     }

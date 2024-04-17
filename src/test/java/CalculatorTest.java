@@ -33,6 +33,7 @@ public class CalculatorTest {
         int expected = 14;
         assertEquals(expected, actual);
     }
+    //test2commit
     @Test
     public void stringToUppercaseWhentestbecomesTEST(){
         String test = "test";
